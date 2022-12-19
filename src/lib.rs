@@ -251,6 +251,7 @@
 pub mod decoders;
 pub mod mailbox;
 pub mod parsers;
+pub mod ffi;
 
 use std::{
     borrow::Cow,
